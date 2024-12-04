@@ -41,7 +41,7 @@ As `@tronweb3/tronwallet-adapters` exports adapter of each wallet , you can use 
 |  |Browser Extension | Not Support |
 | [gate.io](https://www.gate.io/web3) | Android | >= 6.30.10 |
 | | IOS | >= 6.20.1 |
-|  |Browser Extension | Not Support |
+|  |Browser Extension | >= 2.35.2 |
 | [FoxWallet](https://foxwallet.com/) | Android | >= 5.3.1 |
 | | IOS | >= 5.3.1 |
 |  |Browser Extension | Not Support |
